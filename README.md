@@ -145,12 +145,13 @@ Java → DSA → Web Development → Git/GitHub → AI Tools
 </p>
 
 ---
+## 🐙 GitHub
 
-## 📈 GitHub Activity
+I use GitHub to build, experiment, and document my projects.
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abisheik-cmd&theme=github-compact&hide_border=true" width="100%"/>
-</p>
+🔗 **[github.com/abisheik-cmd](https://github.com/abisheik-cmd)**
+
+> Building projects one commit at a time.
 
 ---
 
